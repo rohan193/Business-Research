@@ -18,14 +18,21 @@
 
 - [Making digital customer engagement a reality](https://www.mckinsey.com/business-functions/marketing-and-sales/our-insights/making-digital-customer-engagement-a-reality)
   - Pharma focussed
-  
-  
-  
-  
+- [The Digital Engagement Guide](https://www.digitalengagement.info/what/)
+- [Eight Digital Channels to Increase Engagement With Your Customers](https://www.smartmessage.com/eight-digital-channels-to-increase-engagement-with-your-customers/)
+  - Channels used for DE -
+    - Email
+    - SMS
+    - Push notification
+    - [Chatbots](http://www.smartmessage.com/use-chatbots-to-increase-engagement-with-your-customers/)
+    - Social media
+    - Interactive Voice Notification (IVN) & Text to Speech (TTS)
+    - Beacon and Location Based Services
+    
+    
+    
+    
 ## Seach terms
 - Channels for digital engagement
 - Shift in channels used for engagement, shift in the jouney followed by a customer while engaging digitally
 - How many of these problems have been solved by Mu Sigma
-
-
-
