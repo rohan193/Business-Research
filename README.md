@@ -14,3 +14,18 @@
   - **Age** can be assumed to influence profitability by its impact on consumption patterns. For example middle-aged customers tend to be more profitable than younger ones because they tend to maintain higher balances and are more likely to have mortgages
   - **Demographics/Lifestyle**
   
+# Digital and Social engagement
+
+- [Making digital customer engagement a reality](https://www.mckinsey.com/business-functions/marketing-and-sales/our-insights/making-digital-customer-engagement-a-reality)
+  - Pharma focussed
+  
+  
+  
+  
+## Seach terms
+- Channels for digital engagement
+- Shift in channels used for engagement, shift in the jouney followed by a customer while engaging digitally
+- How many of these problems have been solved by Mu Sigma
+
+
+
