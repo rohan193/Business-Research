@@ -28,7 +28,7 @@
     - Social media
     - Interactive Voice Notification (IVN) & Text to Speech (TTS)
     - Beacon and Location Based Services
-    
+- [10 Ways to Improve Digital Customer Experiences](https://www.ama.org/publications/MarketingInsights/Pages/The-Experience-Economy.aspx)
     
     
     
@@ -36,3 +36,4 @@
 - Channels for digital engagement
 - Shift in channels used for engagement, shift in the jouney followed by a customer while engaging digitally
 - How many of these problems have been solved by Mu Sigma
+- (Improving) Digital jouney/ engagement in retail/ other
