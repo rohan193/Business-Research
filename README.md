@@ -1,5 +1,18 @@
 # Context on problem spaces faced by different business verticals and how they are solved
 
+# Customer Life-Cycle Management
+
+## Customer Journey Analytics
+
+- [What is Customer Journey Analytics?](https://www.pointillist.com/blog/what-is-customer-journey-analytics/)
+  - **Customer Experience is Driving the Need for Customer Journey Analytics**
+  - Customer experience is everywhere. From marketing to customer service to the boardroom, it’s now generally recognized that personalized, efficient and engaging customer experience drives customer acquisition, brand loyalty and customer lifetime value (LTV).
+  - Better customer experience actually correlates with higher revenue growth. CX drives three types of customer loyalty: retention, enrichment, and advocacy. Increased customer loyalty in turn tends to drive increased revenue growth
+- []()
+
+
+
+
 # CLTV
 
 ## Banking
@@ -29,7 +42,6 @@
     - Interactive Voice Notification (IVN) & Text to Speech (TTS)
     - Beacon and Location Based Services
 - [10 Ways to Improve Digital Customer Experiences](https://www.ama.org/publications/MarketingInsights/Pages/The-Experience-Economy.aspx)
-    
     
     
 ## Seach terms
